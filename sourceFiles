@@ -1,0 +1,7 @@
+./src/de/tu_berlin/Launcher.java
+./src/de/tu_berlin/reducer/LineItemReducer.java
+./src/de/tu_berlin/reducer/OrderReducer.java
+./src/de/tu_berlin/reducer/CustomerReducer.java
+./src/de/tu_berlin/mapper/LineItemMapper.java
+./src/de/tu_berlin/mapper/CustomerMapper.java
+./src/de/tu_berlin/mapper/OrderMapper.java
